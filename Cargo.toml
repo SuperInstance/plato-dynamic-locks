@@ -1,0 +1,5 @@
+[package]
+name = "plato-dynamic-locks"
+version = "0.1.0"
+edition = "2021"
+description = "Runtime lock accumulation — learns constraints from compilation/experience runs, extending static gates with dynamic knowledge"
